@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="hello">Masukan nama dan hobi</string>
+    <string name="app_name">Database Android</string>
+    <string name="btnAddtxt">Add</string>
+    <string name="namaLabel">Nama</string>
+    <string name="hobiLabel">Hobi</string>
+    <string name="nomorLabel">No.</string>
+</resources>
